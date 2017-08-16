@@ -1,5 +1,6 @@
-file 'default ww' do
-	path 'var/ww/html/index.html'
+file 'default www' do
+	path '/var/www/html/index.html'
 	content 'Hello World!'
 end
+
 
